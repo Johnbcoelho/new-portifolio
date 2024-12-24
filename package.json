@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Johnbcoelho.github.io/new-portifolio",
-  "name": "portfolio-2-0",
+  "homepage": "https://johnbcoelho.github.io/new-portifolio",
+  "name": "new-portifolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist" 
   },
   "dependencies": {
     "aos": "^2.3.4",
